@@ -42,23 +42,23 @@ The goals of the project are to:
   With the docker file created, the next step is to build and run the docker image.
   Use the code below to build the:
   
-  docker build -t flask-rest-api .
+    docker build -t flask-rest-api .
   
   ##Note: the "flask-rest-api" can be changed to any name.
   
   You can use code below to verify the docker image
   
-  docker images
+   docker images
   
   If the image is created, the code below is used to run it:
   
-  docker run -d -p 5000:5000 flask-rest-api
+    docker run -d -p 5000:5000 flask-rest-api
   
   To check if the container is running, use:
   
-  docker ps -a
+    docker ps -a
   
   Using the line of code below, you can check the logs of the container to ensure the application is running:
   
-  docker logs <CONTAINER ID OR CONTAINER NAME>
+    docker logs <CONTAINER ID OR CONTAINER NAME>
   
