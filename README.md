@@ -1,4 +1,4 @@
-# MiniProject4-OS-
+# MiniProject4-OS
 
 Team Members: Kofi Omari Asante (39932022) and Stacy Nyamekye Sarfo (55242022)
 
