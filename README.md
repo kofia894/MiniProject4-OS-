@@ -48,7 +48,7 @@ The goals of the project are to:
   
   You can use code below to verify the docker image
   
-   docker images
+    docker images
   
   If the image is created, the code below is used to run it:
   
